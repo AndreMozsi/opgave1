@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>Welkom</h1>
+            <h1>Hallo</h1>
                 <p>Naam:</p>
                 <asp:TextBox ID="txtNaam" runat="server" placeholder="vul naam hier in" required></asp:TextBox>
                 <p>Geslacht:</p>
